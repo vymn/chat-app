@@ -1,8 +1,6 @@
 # Chat/Messaging App Light and Dark Theme - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/uiJF-ShOLyo)
-
-## [Complete Source Code (Patreon only)](https://bit.ly/3n5mdwS)
+## [Watch it on YouTube](https://youtu.be/N2vZf046wbk)
 
 **Packages we are using:**
 
